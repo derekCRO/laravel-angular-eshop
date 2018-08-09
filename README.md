@@ -1,5 +1,3 @@
-Demo: http://195.251.253.15:8080/eshop_laravel/public
-(If the apache server is down please inform me)
 
 ## Explanation
 This project is an attempt to create an open source e-commerce platform inspired from OpenCart, Prestashop e.t.c. The project uses the latest technologies (AngularJs, Bootstrap, Ticket Authentication, Models, Repositories, Services e.t.c) and also many well proven software patterns inspired from ASP.NET Mvc and WebApi. The final purpose of this project was to try to create a custom by hand front-end and to use a code generator for the backend to produce FAST Controllers/Actions/Views for the admin area based on database schema. Unfortynatelly due to lack of free time the project is temporary abandoned. 
